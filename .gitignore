@@ -1,0 +1,15 @@
+# Credenciales y Secretos locales (NUNCA subir a GitHub público)
+credenciales.json
+.streamlit/secrets.toml
+
+# Bases de datos y archivos locales
+*.db
+*.xlsx
+app viejo.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
